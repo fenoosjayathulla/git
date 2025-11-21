@@ -1,12 +1,9 @@
 # Git Course
 This is a complete git course
 
-<<<<<<< HEAD
 # This is from Bug branch
-=======
 # This is change from Feature branch
 # This is Feature 2.0
->>>>>>> main
 
 # This is commit 1
 
@@ -17,3 +14,5 @@ This is a complete git course
 # This is commit 4
 
 # This is commit 5
+
+# I'm working on a non priority task - not completed
